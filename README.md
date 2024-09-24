@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently an undergraduate at SJTU.
+I'm currently an undergraduate at SJTU, interested in computer science/software engineering and enjoy FPS games.
 
 <!--
 **KevinTan0520/KevinTan0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
