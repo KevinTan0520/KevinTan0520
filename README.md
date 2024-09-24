@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently an undergraduate in SJTU.
+I'm currently an undergraduate at SJTU.
 
 <!--
 **KevinTan0520/KevinTan0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
